@@ -1,0 +1,15 @@
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/bin/Debug/net7.0/DescompressDataInventario
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/bin/Debug/net7.0/DescompressDataInventario.deps.json
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/bin/Debug/net7.0/DescompressDataInventario.runtimeconfig.json
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/bin/Debug/net7.0/DescompressDataInventario.dll
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/bin/Debug/net7.0/DescompressDataInventario.pdb
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.csproj.AssemblyReference.cache
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.AssemblyInfoInputs.cache
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.AssemblyInfo.cs
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.csproj.CoreCompileInputs.cache
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.dll
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/refint/DescompressDataInventario.dll
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.pdb
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/DescompressDataInventario.genruntimeconfig.cache
+/Users/INFLORCS/Documents/DescompressDataInventario/DescompressDataInventario/obj/Debug/net7.0/ref/DescompressDataInventario.dll
