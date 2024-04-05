@@ -77,7 +77,12 @@ internal partial class Program
         return dataset;
     }
 
-    static Byte[] FromBase64ToByte()
+
+    /// <summary>
+    /// Aqui deve ser salvo o arquivo dentro da pasta do projeto, com o nome dataHub.txt
+    /// </summary>
+    /// <returns>Esse método converte a string recebida do HUB para um byte array.</returns>
+    static byte[] FromBase64ToByte()
     {
         var base64 = File.ReadAllText("dataHub.txt");
         return Convert.FromBase64String(base64);
